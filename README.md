@@ -1,11 +1,15 @@
-## About me
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhongjunland&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 
-*   
-*
-*
-*
+## Introduce
 
-## Skills
+* "Simple is the best" 를 추구하는
+* 감탄고토(甘呑苦吐)하게 스펀지 처럼 좋은 것만 흡수하는
+* 항상 도전해보고 싶은
+* ENTP와 같이 항상 호기심을 추구하는
+
+이 홍 준 입니다~~!
+
+## Tech Stack
 
 ### Language
 
@@ -41,3 +45,16 @@
 ![PyCharm](https://img.shields.io/badge/-PyCharm%20IDEA-%23000000?style=flat&logo=PyCharm)
 ![AndroidStudio](https://img.shields.io/badge/-AndroidStudio-%233DDC84?style=flat&logo=androidStudio&logoColor=white)
 ![EclipseIDE](https://img.shields.io/badge/-Eclipse-%23525C86?style=flat&logo=EclipseIDE)
+![Anaconda](https://img.shields.io/badge/-Anaconda-%2344A833?style=flat&logo=Anaconda&logoColor=white)
+
+## Github Stats
+
+![Hongjunland's GitHub stats](https://github-readme-stats.vercel.app/api?username=hongjunland&show_icons=true&theme=vue)
+
+## Solved.ac
+
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=zunza96)](https://solved.ac/zunza96)
+
+
+
