@@ -43,7 +43,6 @@ I'm Lee,hongjun a front-end developer who
 ![GitHub](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/-PyCharm%20IDEA-%23000000?style=flat&logo=PyCharm)
 ![AndroidStudio](https://img.shields.io/badge/-AndroidStudio-%233DDC84?style=flat&logo=androidStudio&logoColor=white)
-![EclipseIDE](https://img.shields.io/badge/-Eclipse-%23525C86?style=flat&logo=EclipseIDE)
 ![Anaconda](https://img.shields.io/badge/-Anaconda-%2344A833?style=flat&logo=Anaconda&logoColor=white)
 
 ## Github Stats
