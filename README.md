@@ -3,10 +3,10 @@
 ## Introduce
 
 I'm Lee,hongjun a developer who
-* always pursue "Simple is the best",
-* always absorb something good like a sponge,
-* always challenge,
-* always curious(ENTP).
+* pursue "Simple is the best",
+* absorb something good like a sponge,
+* tries something new.
+* has a technically inquisitive mind (ENTP).
 
 
 ## Tech Stack
