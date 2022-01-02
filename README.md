@@ -2,12 +2,12 @@
 
 ## Introduce
 
-* "Simple is the best" 를 추구하는
-* 좋은 것은 스펀지 처럼 쭉쭉 흡수하는
-* 항상 도전해보고 싶은
-* 항상 호기심을 추구하는(ENTP)
+I'm Lee,hongjun a developer who
+* always pursue "Simple is the best",
+* always absorb something good like a sponge,
+* always challenge,
+* always curious(ENTP).
 
-이 홍 준 입니다~~!
 
 ## Tech Stack
 
@@ -21,8 +21,6 @@
 
 ### Front-End
 
-![html5](https://img.shields.io/badge/-HTML5-%23E34F26?style=flat&logo=html5&logoColor=white)
-![css3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/-React-%2361DAFB?style=flat&logo=react&logoColor=black)
 ![Vue](https://img.shields.io/badge/-Vue-%234FC08D?style=flat&logo=vue.js&logoColor=black)
 ![Android](https://img.shields.io/badge/-Android-%233DDC84?style=flat&logo=android&logoColor=white)
