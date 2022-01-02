@@ -2,7 +2,7 @@
 
 ## Introduce
 
-I'm Lee,hongjun a developer who
+I'm Lee,hongjun a front-end developer who
 * pursue "Simple is the best",
 * absorb something good like a sponge,
 * tries something new.
