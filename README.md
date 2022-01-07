@@ -2,7 +2,7 @@
 
 ## Introduce
 
-My name is Lee,hongjun.
+My name is Lee,hongjun. <br>
 I'm a front-end developer who
 * pursue "Simple is the best",
 * absorb something good like a sponge,
