@@ -33,6 +33,7 @@ I'm a front-end web developer who
 
 ### DBMS
 
+![MariaDB](https://img.shields.io/badge/-MariaDB-%234479A1?style=flat&logo=mariadb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-%234479A1?style=flat&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-%2347A248?style=flat&logo=mongodb&logoColor=white)
 
