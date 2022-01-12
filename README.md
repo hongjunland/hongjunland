@@ -51,7 +51,7 @@ I'm a front-end web developer who
 
 ![Hongjunland's GitHub stats](https://github-readme-stats.vercel.app/api?username=hongjunland&show_icons=true&theme=vue)
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hongjunland&show_icons=true&theme=vue)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hongjunland&layout=compact&theme=vue)](https://github.com/hongjunland)
 
 ## Solved.ac
 
