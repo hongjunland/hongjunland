@@ -48,7 +48,7 @@ I'm a front-end web developer who
 ![Anaconda](https://img.shields.io/badge/-Anaconda-%2344A833?style=flat&logo=Anaconda&logoColor=white)
 
 ## Github Stats
-<div display="inline-block">
+<div display=inline-block>
 ![Hongjunland's GitHub stats](https://github-readme-stats.vercel.app/api?username=hongjunland&show_icons=true&theme=vue)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hongjunland&layout=compact&theme=vue)](https://github.com/hongjunland)
