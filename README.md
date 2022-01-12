@@ -51,6 +51,8 @@ I'm a front-end web developer who
 
 ![Hongjunland's GitHub stats](https://github-readme-stats.vercel.app/api?username=hongjunland&show_icons=true&theme=vue)
 
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hongjunland&show_icons=true&theme=vue)
+
 ## Solved.ac
 
 [![Solved.ac
