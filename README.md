@@ -3,8 +3,6 @@
 ## Introduce
 
 My name is Lee,hongjun.
-
-
 I'm a front-end web developer who
 * pursue "Simple is the best",
 * absorb something good like a sponge,
