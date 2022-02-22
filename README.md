@@ -40,7 +40,7 @@ I'm a front-end web developer who
 ### Tools
 
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+![VSCode](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white)
 ![Anaconda](https://img.shields.io/badge/-Anaconda-%2344A833?style=flat&logo=Anaconda&logoColor=white)
