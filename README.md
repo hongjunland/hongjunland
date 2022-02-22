@@ -44,6 +44,7 @@ I'm a front-end web developer who
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white)
 ![Anaconda](https://img.shields.io/badge/-Anaconda-%2344A833?style=flat&logo=Anaconda&logoColor=white)
+![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=Jira&logoColor=white)
 
 ## Github Stats
 
