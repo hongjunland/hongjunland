@@ -31,12 +31,15 @@ I'm a front-end web developer who
 ![SpringBoot](https://img.shields.io/badge/-SpringBoot-%236DB33F?style=flat&logo=springboot&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-%23339933?style=flat&logo=node.js&logoColor=white)
 
-### DBMS
+### DBMS & Cloud
 
 ![MariaDB](https://img.shields.io/badge/-MariaDB-%234479A1?style=flat&logo=mariadb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-%234479A1?style=flat&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-%2347A248?style=flat&logo=mongodb&logoColor=white)
 ![AmazonS3](https://img.shields.io/badge/-AmazonS3-%569A31?style=flat&logo=amazons3&logoColor=white)
+![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=Jira&logoColor=white)
+![Firebase](https://img.shields.io/badge/-firebase-%23FFCA28&logo=firebase&logoColor=white)
+
 ### Tools
 
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat&logo=git&logoColor=white)
