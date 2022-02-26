@@ -38,7 +38,7 @@ I'm a front-end web developer who
 ![MongoDB](https://img.shields.io/badge/-MongoDB-%2347A248?style=flat&logo=mongodb&logoColor=white)
 ![AmazonS3](https://img.shields.io/badge/-AmazonS3-%569A31?style=flat&logo=amazons3&logoColor=white)
 ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=Jira&logoColor=white)
-![Firebase](https://img.shields.io/badge/-firebase-%23FFCA28)
+![Firebase](https://img.shields.io/badge/-firebase-%23FFCA28?style=flat&logo=firebase&logoColor=white)
 
 ### Tools
 
