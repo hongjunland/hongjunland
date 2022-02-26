@@ -18,7 +18,6 @@ I'm a front-end web developer who
 ![javascript](https://img.shields.io/badge/-JavaScript-%23F7DF1E?style=flat&logo=JavaScript&logoColor=black)
 ![Python](https://img.shields.io/badge/-Python-%233776AB?style=flat&logo=python&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-%237F52FF?style=flat&logo=kotlin&logoColor=white)
-![C++](https://img.shields.io/badge/-C%2B%2B-%2300599C?style=flat&logo=c%2B%2B&logoColor=white)
 
 ### Front-End
 
@@ -33,7 +32,6 @@ I'm a front-end web developer who
 
 ### DBMS & Cloud
 
-![MariaDB](https://img.shields.io/badge/-MariaDB-%234479A1?style=flat&logo=mariadb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-%234479A1?style=flat&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-%2347A248?style=flat&logo=mongodb&logoColor=white)
 ![AmazonS3](https://img.shields.io/badge/-AmazonS3-%569A31?style=flat&logo=amazons3&logoColor=white)
