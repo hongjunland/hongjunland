@@ -31,19 +31,17 @@ I'm a front-end web developer who
 ![SpringBoot](https://img.shields.io/badge/-SpringBoot-%236DB33F?style=flat&logo=springboot&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-%23339933?style=flat&logo=node.js&logoColor=white)
 
-### DevOps
+### Database
 
 ![MySQL](https://img.shields.io/badge/-MySQL-%234479A1?style=flat&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-%2347A248?style=flat&logo=mongodb&logoColor=white)
+
+### DevOps
+
 ![AmazonS3](https://img.shields.io/badge/-AmazonS3-%569A31?style=flat&logo=amazons3&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-%23FFCA28?style=flat&logo=firebase&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-%23D24939?style=flat&logo=jenkins&logoColor=white)
-
-### Tools
-
-![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=fla&logo=Notion&logoColor=white)
 ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=Jira&logoColor=white)
 
 ## Github Stats
