@@ -36,8 +36,8 @@ I'm a front-end web developer who
 ![MySQL](https://img.shields.io/badge/-MySQL-%234479A1?style=flat&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-%2347A248?style=flat&logo=mongodb&logoColor=white)
 ![AmazonS3](https://img.shields.io/badge/-AmazonS3-%569A31?style=flat&logo=amazons3&logoColor=white)
-![Firebase](https://img.shields.io/badge/-firebase-%23FFCA28?style=flat&logo=firebase&logoColor=white)
-![Jenkins](https://img.shields.io/badge/-firebase-%D24939?style=flat&logo=jenkins&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-%23FFCA28?style=flat&logo=firebase&logoColor=white)
+![Jenkins](https://img.shields.io/badge/-Jenkins-%23D24939?style=flat&logo=jenkins&logoColor=white)
 
 ### Tools
 
