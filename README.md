@@ -22,7 +22,7 @@ I'm a web engineer who
 ### Front-End
 
 ![React](https://img.shields.io/badge/-React-%2361DAFB?style=flat&logo=react&logoColor=black)
-![Redux](https://img.shields.io/badge/-Redux-Toolkit-%23764ABC?style=flat&logo=redux&logoColor=black)
+![Redux](https://img.shields.io/badge/-Redux Toolkit-%23764ABC?style=flat&logo=redux&logoColor=black)
 ![Vue](https://img.shields.io/badge/-Vue-%234FC08D?style=flat&logo=vue.js&logoColor=black)
 ![Android](https://img.shields.io/badge/-Android-%233DDC84?style=flat&logo=android&logoColor=white)
 
