@@ -48,7 +48,6 @@ I'm a web engineer who
 ## Github Stats
 
 ![Hongjunland's GitHub stats](https://github-readme-stats.vercel.app/api?username=hongjunland&show_icons=true&theme=vue)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hongjunland&layout=compact&theme=vue)](https://github.com/hongjunland)
 
 ## Solved.ac
