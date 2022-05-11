@@ -40,7 +40,6 @@ I'm a web engineer who
 ![MySQL](https://img.shields.io/badge/-MySQL-%234479A1?style=flat&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-%2347A248?style=flat&logo=mongodb&logoColor=white)
 ![AmazonS3](https://img.shields.io/badge/-AmazonS3-%569A31?style=flat&logo=amazons3&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-%23FFCA28?style=flat&logo=firebase&logoColor=white)
 
 ### DevOps
 
@@ -48,6 +47,7 @@ I'm a web engineer who
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white)
 ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=Jira&logoColor=white)
 ![Nginx](https://img.shields.io/badge/-Nginx-%23009639?style=flat&logo=Nginx&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-%23FFCA28?style=flat&logo=firebase&logoColor=white)
 
 ## Github Stats
 
