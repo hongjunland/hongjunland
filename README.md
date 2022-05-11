@@ -24,6 +24,8 @@ I'm a web engineer who
 
 ![React](https://img.shields.io/badge/-React-%2361DAFB?style=flat&logo=react&logoColor=black)
 ![Redux](https://img.shields.io/badge/-Redux%20Toolkit-%23764ABC?style=flat&logo=redux&logoColor=black)
+![styled](https://img.shields.io/badge/-Styled-%23DB7093?style=flat&logo=styled-components&logoColor=white)
+![Storybook](https://img.shields.io/badge/-Storybook-%23FF4785?style=flat&logo=Storybook&logoColor=white)
 ![Vue](https://img.shields.io/badge/-Vue-%234FC08D?style=flat&logo=vue.js&logoColor=black)
 ![Android](https://img.shields.io/badge/-Android-%233DDC84?style=flat&logo=android&logoColor=white)
 
