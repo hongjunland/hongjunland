@@ -15,7 +15,8 @@ I'm a web engineer who
 ### Language
 
 ![Java](https://img.shields.io/badge/-Java-%23007396?style=flat&logo=java&logoColor=white)
-![javascript](https://img.shields.io/badge/-JavaScript-%23F7DF1E?style=flat&logo=JavaScript&logoColor=black)
+![Javascript](https://img.shields.io/badge/-JavaScript-%23F7DF1E?style=flat&logo=JavaScript&logoColor=black)
+![Typescript](https://img.shields.io/badge/-TypeScript-%233178C6?style=flat&logo=Typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-%233776AB?style=flat&logo=python&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-%237F52FF?style=flat&logo=kotlin&logoColor=white)
 
