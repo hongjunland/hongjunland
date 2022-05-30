@@ -18,7 +18,6 @@ I'm a web engineer who
 ![Javascript](https://img.shields.io/badge/-JavaScript-%23F7DF1E?style=flat&logo=JavaScript&logoColor=black)
 ![Typescript](https://img.shields.io/badge/-TypeScript-%233178C6?style=flat&logo=Typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-%233776AB?style=flat&logo=python&logoColor=white)
-![Kotlin](https://img.shields.io/badge/-Kotlin-%237F52FF?style=flat&logo=kotlin&logoColor=white)
 
 
 ### Front-End
@@ -28,7 +27,6 @@ I'm a web engineer who
 ![Styled-component](https://img.shields.io/badge/-Styled--component-%23DB7093?style=flat&logo=styled-components&logoColor=white)
 ![Storybook](https://img.shields.io/badge/-Storybook-%23FF4785?style=flat&logo=Storybook&logoColor=white)
 ![Vue](https://img.shields.io/badge/-Vue-%234FC08D?style=flat&logo=vue.js&logoColor=black)
-![Android](https://img.shields.io/badge/-Android-%233DDC84?style=flat&logo=android&logoColor=white)
 
 ### Back-End
 
