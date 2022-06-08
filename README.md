@@ -4,7 +4,6 @@
 
 My name is Lee,hongjun.  
 I'm a web engineer who
-* pursue "Simple is the best",
 * absorb something good like a sponge,
 * tries something new.
 * has a technically inquisitive mind (ENTP).
