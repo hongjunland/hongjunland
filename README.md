@@ -6,7 +6,7 @@ My name is Lee,hongjun.
 I'm a web engineer who
 * absorb something good like a sponge,
 * tries something new.
-* has a technically inquisitive mind (ENTP).
+* has a technically inquisitive mind.
 
 
 ## Tech Stack
