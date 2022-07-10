@@ -9,7 +9,7 @@ I'm a web engineer who
 * has a technically inquisitive mind.
 
 ## Portpolio
-(https://www.notion.so/Hello-Hongjunland-ab571b0efa044321b5c454ab5d79f46b)
+https://www.notion.so/Hello-Hongjunland-ab571b0efa044321b5c454ab5d79f46b
 
 ## Tech Stack
 
