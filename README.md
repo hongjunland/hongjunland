@@ -28,7 +28,6 @@ https://www.notion.so/Hello-Hongjunland-ab571b0efa044321b5c454ab5d79f46b
 ![Redux](https://img.shields.io/badge/-Redux%20Toolkit-%23764ABC?style=flat&logo=redux&logoColor=black)
 ![Styled-component](https://img.shields.io/badge/-Styled--component-%23DB7093?style=flat&logo=styled-components&logoColor=white)
 ![Storybook](https://img.shields.io/badge/-Storybook-%23FF4785?style=flat&logo=Storybook&logoColor=white)
-![Vue](https://img.shields.io/badge/-Vue-%234FC08D?style=flat&logo=vue.js&logoColor=black)
 
 ### Back-End
 
