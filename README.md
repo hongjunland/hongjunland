@@ -54,8 +54,7 @@ https://www.notion.so/Hello-Hongjunland-ab571b0efa044321b5c454ab5d79f46b
 
 ## Solved.ac
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=zunza96)](https://solved.ac/zunza96)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=zunza96)](https://solved.ac/zunza96)
 
 
 
