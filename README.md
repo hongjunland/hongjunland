@@ -1,13 +1,5 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhongjunland&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 
-## Introduce
-
-My name is Lee,hongjun.  
-I'm a web engineer who
-* absorb something good like a sponge,
-* tries something new.
-* has a technically inquisitive mind.
-
 ## Portfolio
 
 https://www.notion.so/Hello-Hongjunland-ab571b0efa044321b5c454ab5d79f46b
