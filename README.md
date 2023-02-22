@@ -13,7 +13,6 @@ https://www.notion.so/Hello-Hongjunland-ab571b0efa044321b5c454ab5d79f46b
 ![Typescript](https://img.shields.io/badge/-TypeScript-%233178C6?style=flat&logo=Typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-%233776AB?style=flat&logo=python&logoColor=white)
 
-
 ### Front-End
 
 ![React](https://img.shields.io/badge/-React-%2361DAFB?style=flat&logo=react&logoColor=black)
