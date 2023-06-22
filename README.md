@@ -18,7 +18,7 @@ https://www.notion.so/Hello-Hongjunland-ab571b0efa044321b5c454ab5d79f46b
 
 ![React](https://img.shields.io/badge/-React-%2361DAFB?style=flat&logo=react&logoColor=black)
 ![Redux](https://img.shields.io/badge/-Redux%20Toolkit-%23764ABC?style=flat&logo=redux&logoColor=black)
-![Emotion](https://img.shields.io/badge/-Styled--component-%23DB7093?style=flat&logo=styled-components&logoColor=white)
+![Emotion](https://img.shields.io/badge/-Emotion-%23DB7093?style=flat&logo=styled-components&logoColor=white)
 ![Storybook](https://img.shields.io/badge/-Storybook-%23FF4785?style=flat&logo=Storybook&logoColor=white)
 [![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)](https://nextjs.org/)
 [![Recoil](https://img.shields.io/badge/-Recoil-008CBA?style=flat-square&logo=recoil)](https://recoiljs.org/)
