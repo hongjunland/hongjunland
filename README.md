@@ -28,7 +28,6 @@ https://www.notion.so/Hello-Hongjunland-ab571b0efa044321b5c454ab5d79f46b
 ### Back-End
 
 ![SpringBoot](https://img.shields.io/badge/-SpringBoot-%236DB33F?style=flat&logo=springboot&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-%23339933?style=flat&logo=node.js&logoColor=white)
 
 ### Database
 
