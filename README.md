@@ -44,7 +44,6 @@ https://www.notion.so/Hello-Hongjunland-ab571b0efa044321b5c454ab5d79f46b
 
 ## Github Stats
 
-![Hongjunland's GitHub stats](https://github-readme-stats.vercel.app/api?username=hongjunland&show_icons=true&theme=vue)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hongjunland&layout=compact&theme=vue)](https://github.com/hongjunland)
 
 ## Solved.ac
