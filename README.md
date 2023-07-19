@@ -17,7 +17,6 @@ https://www.notion.so/Hello-Hongjunland-ab571b0efa044321b5c454ab5d79f46b
 ### Front-End
 
 ![React](https://img.shields.io/badge/-React-%2361DAFB?style=flat&logo=react&logoColor=black)
-![Redux](https://img.shields.io/badge/-Redux%20Toolkit-%23764ABC?style=flat&logo=redux&logoColor=black)
 ![Emotion](https://img.shields.io/badge/-Emotion-%23DB7093?style=flat&logo=styled-components&logoColor=white)
 ![Storybook](https://img.shields.io/badge/-Storybook-%23FF4785?style=flat&logo=Storybook&logoColor=white)
 [![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)](https://nextjs.org/)
@@ -37,7 +36,6 @@ https://www.notion.so/Hello-Hongjunland-ab571b0efa044321b5c454ab5d79f46b
 
 ### DevOps
 
-![Jenkins](https://img.shields.io/badge/-Jenkins-%23D24939?style=flat&logo=jenkins&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white)
 ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=Jira&logoColor=white)
 ![Nginx](https://img.shields.io/badge/-Nginx-%23009639?style=flat&logo=Nginx&logoColor=white)
