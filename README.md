@@ -17,22 +17,21 @@ https://www.notion.so/Hello-Hongjunland-ab571b0efa044321b5c454ab5d79f46b
 ### Front-End
 
 ![React](https://img.shields.io/badge/-React-%2361DAFB?style=flat&logo=react&logoColor=black)
-![Emotion](https://img.shields.io/badge/-Emotion-%23DB7093?style=flat&logo=styled-components&logoColor=white)
-![Storybook](https://img.shields.io/badge/-Storybook-%23FF4785?style=flat&logo=Storybook&logoColor=white)
 [![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)](https://nextjs.org/)
 [![Recoil](https://img.shields.io/badge/-Recoil-008CBA?style=flat-square&logo=recoil)](https://recoiljs.org/)
 [![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=flat-square&logo=react)](https://react-query.tanstack.com/)
-
+![Emotion](https://img.shields.io/badge/-Emotion-%23DB7093?style=flat&logo=styled-components&logoColor=white)
 
 ### Back-End
 
 ![SpringBoot](https://img.shields.io/badge/-SpringBoot-%236DB33F?style=flat&logo=springboot&logoColor=white)
+![JPA](https://img.shields.io/badge/JPA-%2359666C?logo=hibernate&logoColor=white)
 
 ### Database
 
 ![MySQL](https://img.shields.io/badge/-MySQL-%234479A1?style=flat&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-%2347A248?style=flat&logo=mongodb&logoColor=white)
 ![AmazonS3](https://img.shields.io/badge/-AmazonS3-%569A31?style=flat&logo=amazons3&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-%23DC382D?style=flat&logo=redis&logoColor=white)
 
 ### DevOps
 
@@ -45,8 +44,6 @@ https://www.notion.so/Hello-Hongjunland-ab571b0efa044321b5c454ab5d79f46b
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hongjunland&layout=compact&theme=vue)](https://github.com/hongjunland)
 
 ## Solved.ac
-
-
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=zunza96)](https://solved.ac/zunza96)
 
