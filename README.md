@@ -26,6 +26,7 @@ https://www.notion.so/Hello-Hongjunland-ab571b0efa044321b5c454ab5d79f46b
 
 ![SpringBoot](https://img.shields.io/badge/-SpringBoot-%236DB33F?style=flat&logo=springboot&logoColor=white)
 ![JPA](https://img.shields.io/badge/JPA-%2359666C?logo=hibernate&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 
 ### Database
 
