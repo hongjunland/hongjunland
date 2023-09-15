@@ -9,7 +9,7 @@ https://www.notion.so/Hello-Hongjunland-ab571b0efa044321b5c454ab5d79f46b
 
 ### Language
 
-![Java](https://img.shields.io/badge/-Java-%23007396?style=flat&logo=Java&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-%23007396?style=flat&logoColor=white&logo=openjdk)
 ![Javascript](https://img.shields.io/badge/-JavaScript-%23F7DF1E?style=flat&logo=JavaScript&logoColor=black)
 ![Typescript](https://img.shields.io/badge/-TypeScript-%233178C6?style=flat&logo=Typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-%233776AB?style=flat&logo=python&logoColor=white)
